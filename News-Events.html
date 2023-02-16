@@ -1,0 +1,651 @@
+﻿<!DOCTYPE html>
+<html>
+<head id="head"><title>
+	CTIC | New York NCS - News &amp; Events
+</title><meta name="description" content="Get the latest on local commercial real estate trends in New York and real estate news from across the country courtesy of the FNF News Desk."> 
+<meta charset="UTF-8"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, height=device-height,  initial-scale=1.0, user-scalable=yes, user-scalable=5">
+<link href="CMSPages/Bootstrap.min.css?stylesheetname=bootstrap.min" type="text/css" rel="stylesheet">  
+<link href="CMSPages/Font-awesome.min.css?stylesheetname=font-awesome.min" type="text/css" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="css2?family=Montserrat&family=Noticia+Text&display=swap" rel="stylesheet">
+<link href="CMSPages/CT_main.css?stylesheetname=CT_main" type="text/css" rel="stylesheet">
+<script src="CMSScripts/Custom/jquery-3.5.1.slim.min.js"></script> 
+<link href="CTICNCSTemplateSite/media/ChicagoTitle/NCS/favicon_CT.ico" type="image/x-icon" rel="shortcut icon">
+<link href="CTICNCSTemplateSite/media/ChicagoTitle/NCS/favicon_CT.ico" type="image/x-icon" rel="icon">
+<script type="text/javascript">
+(function() {
+  var didInit = false;
+  function initMunchkin() {
+    if(didInit === false) {
+      didInit = true;
+      Munchkin.init('393-REY-847', {"wsInfo":"i1RU"});
+    }
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//munchkin.marketo.net/munchkin.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+      initMunchkin();
+    }
+  };
+  s.onload = initMunchkin;
+  document.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="gtag/js?id=G-24PVW7V1PH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-24PVW7V1PH');
+</script><script>(function() {
+       document.getElementsByTagName('html')[0].setAttribute('lang', 'en-US');
+       document.getElementsByTagName('html')[0].setAttribute('xml:lang','en-US');
+})(); </script><script>
+function ShowDiv(link) {
+  debugger;
+            var links = document.getElementById("nav-links").getElementsByClassName("news-story");
+
+            for (var i = 0, linkk; linkk = links[i]; i++) {
+                var attr = linkk.getAttribute('id');
+              if(document.getElementById(attr) != null)
+                document.getElementById(attr).classList.add('d-none');
+            }
+            link = link.split('#')[1];
+            
+            if (link != "FeaturedStory" && link != "RSSFeed") {
+              if(document.getElementById("featuredHeader")!=null)
+                  document.getElementById("featuredHeader").classList.add('d-none');
+            }
+            else {
+              if(document.getElementById("featuredHeader")!=null)
+                document.getElementById("featuredHeader").classList.remove('d-none');
+            }
+            if(document.getElementById(link)!=null)
+              document.getElementById(link).classList.remove('d-none');
+        }
+  </script><!--<script src="https://connect.facebook.net/en_US/sdk.js?hash=e36d88e7dcfb3587cf8b50958ee8b60f&amp;ua=modern_es6"
+async="" crossorigin="anonymous"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script>-->
+<script type="text/javascript" src="in.js?async=true"></script> 
+
+</head>
+<body class="LTR Unknown ENUS ContentBody">
+    
+    <form method="post" action="/News-Events" id="form">
+<input type="hidden" name="__CMSCsrfToken" id="__CMSCsrfToken" value="ikFJMxUELo7UZhvfKf1U1u3xydg/FS0jdF9/jgW2/7xiiczr6Dd1nSZrIP91jdvnBZhhWpV5aZgKUmq4PMY9uv0mr5P4qToSoHKh8i3ANT0=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+
+<input type="hidden" name="lng" id="lng" value="en-US">
+<script src="CMSPages/WebServiceCall.js?scriptfile=%7e%2fCMSScripts%2fWebServiceCall.js" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('m$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvm8DsHGfbE5F9VD54fhru7FMDPCn2c8GKnlUliKFbWgG2tnPu3_k2s_BIhaJl0ok_06tROYdn3nSGz1pr90_LBlvOq5rjJA2z4v1Q6uP1Aa9zqXfMoWX_FSwnTjqDIm05ESZOt6BJL0Gb-DsA2XdTp41&amp;t=49337fe8" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "language": "en",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDebuggingEnabled": false,
+  "applicationUrl": "/",
+  "isDialog": false,
+  "isRTL": "false"
+};
+
+//]]>
+</script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185">
+    
+    <div id="ctxM">
+
+</div>
+    <a class="skip-link" href="#main">Skip to main content</a>
+<div>
+  
+  
+  
+  <div class="dark-yellow-background hr-yellow-line"></div>
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-light navbar-expand-md" role="navigation" aria-labelledby="topNavigation">
+      <div id="topNavigation" class="container">
+        <a href="index.htm">
+    <img src="getattachment/Web-Site-Configurations/CTICLogoLarge.png?lang=en-US&width=312&height=61&ext=.png" class="img-fluid img-logo biglogo" alt="WestendTitles National Commercial">
+    <img src="getattachment/Web-Site-Configurations/CTICLogoSmall.png?lang=en-US&width=155&height=60&ext=.png" class="img-fluid mobilelogo" alt="WestendTitles National Commercial">
+</a>
+<section class="ml-auto">
+  <button class="btn btn-primary-customstyle dropdown-toggle navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" aria-controls="collapsibleNavbar">
+    MENU
+  </button>
+</section>
+<section class="collapse navbar-collapse" id="collapsibleNavbar">
+  <ul class="navbar-nav ml-auto navbar-white-backcolor">
+    
+    
+
+
+
+<li class="nav-item">
+  <a class="nav-link" href="People.html">People</a>
+  </li>
+
+
+
+<li class="d-block d-lg-none nav-item"><a class="nav-link" href="Services.html">SERVICES</a></li>
+<li class="nav-item dropdown d-none d-lg-block">
+  <a class="nav-link dropdown-toggle menu-ddl" href="Services.html" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    SERVICES
+  </a>          
+  <div class="dropdown-menu">
+     
+<a class="dropdown-item" href="Services.html">Title Insurance</a>
+<hr>
+ 
+<a class="dropdown-item" href="Services.html#Closing & Escrow">Closing &amp; Escrow</a>
+<hr>
+
+<a class="dropdown-item" href="Services.html#Construction Disbursing">Construction Disbursing</a>
+<hr>
+
+<a class="dropdown-item" href="Services.html#Recording & Special Projects">Recording &amp; Special Projects</a>
+<hr>
+
+<a class="dropdown-item" href="Services.html#1031 Exchange">1031 Exchange</a>
+<hr>
+
+<a class="dropdown-item" href="Services.html#UCCPlus Insurance">UCCPlus Insurance</a>
+<hr>
+
+  </div>
+</li>
+
+<li class="d-block d-lg-none nav-item"><a class="nav-link" href="Expertise.html">EXPERTISE</a></li>
+<li class="nav-item dropdown d-none d-lg-block">
+  <a class="nav-link dropdown-toggle menu-ddl" href="Expertise.html" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    EXPERTISE
+  </a>          
+  <div class="dropdown-menu">
+     
+<a class="dropdown-item" href="Expertise.html">Agriculture / Land</a>
+<hr>
+ 
+<a class="dropdown-item" href="Expertise.html#Corporate Transactions">Corporate Transactions</a>
+<hr>
+
+<a class="dropdown-item" href="Expertise.html#Government">Government</a>
+<hr>
+
+<a class="dropdown-item" href="Expertise.html#Healthcare">Healthcare</a>
+<hr>
+
+<a class="dropdown-item" href="Expertise.html#Hospitality">Hospitality</a>
+<hr>
+
+<a class="dropdown-item" href="Expertise.html#Multifamily Housing">Multifamily Housing</a>
+<hr>
+
+<a class="dropdown-item" href="Expertise.html#New Construction">New Construction</a>
+<hr>
+
+<a class="dropdown-item" href="Expertise.html#Office / Industrial">Office / Industrial</a>
+<hr>
+
+<a class="dropdown-item" href="Expertise.html#Power & Energy">Power &amp; Energy</a>
+<hr>
+
+<a class="dropdown-item" href="Expertise.html#Retail / Restaurant">Retail / Restaurant</a>
+<hr>
+
+  </div>
+</li>
+
+
+
+
+<li class="nav-item">
+  <a class="nav-link" href="Resources.html">RESOURCES</a>
+</li>
+
+
+
+
+
+<li class="nav-item">
+  <a class="nav-link" href="News-Events.html">NEWS &AMP; EVENTS</a>
+</li>
+
+
+
+
+
+<li class="nav-item">
+  <a class="nav-link" href="Contact.html">CONTACT</a>
+</li>
+
+ </ul>
+</section>
+ 
+      </div>
+    </nav>
+  </header>
+  
+  
+  
+  <div>
+    <div id="page-header">
+<div class="col-md-12 search-bar"></div>
+<div class="container"><div id="breadcrumb" class="col-12">
+<span>
+<a href="index.htm">HOME</a>&nbsp;/&nbsp;<span class="CMSBreadCrumbsCurrentItem">News &amp; Events</span>
+</span>
+</div><div class="col-md-12 page-title">
+   
+     
+        
+        <span class="page-title-name" id="BannerIconNewsEvents" title="News & Events">
+    
+    
+     
+
+<h1>News & Events</h1>
+</span>
+</div>
+<br></div>
+</div>
+    
+    <div class="dark-yellow-background hr-yellow-line"></div>
+    
+  </div>
+</div>
+ 
+<div id="main">
+  
+<div id="fb-root"></div>
+<script async="" defer="" crossorigin="anonymous" src="en_US/sdk.js#xfbml=1&version=v5.0"></script>  
+<div class="white-background">
+     <div class="container">
+       <div class="row">
+        <div class="col-12 col-lg-8">
+          <br>
+<div id="featuredHeader">
+  <h2 class="featured-news">Featured Story</h2>
+</div>
+<div class="FeaturedStory" id="FeaturedStory">
+  <img src="getattachment/22c01918-2000-4f65-b0b7-4da2bb54f30a/news_banner.png" alt="Local CRE Trends" class="featured-story-image img-fluid">
+  <br> <br>
+  <span class="storyheading">Discover What’s New and Interesting in Our Backyard</span>
+    <br>
+  <p class="gray"><span>New York City, New York boasts one of the strongest and most diverse economies in the world. With a population of more than 8.5 million people, it also has a thriving tourism industry, attracting more than 60.5 million people to the city annually. It is considered the cultural capital of the world, and is home to some of the most famous attractions in the world, such as Times Square, Central Park, the Empire State Building and Yankee Stadium, to name a few. Each of the city&rsquo;s five boroughs &ndash; the Bronx, Brooklyn, Manhattan, Queens and Staten Island &ndash; has a unique personality with a diverse array of residential neighborhoods, shopping districts and commercial real estate opportunities.</span></p>
+
+<p class="gray"><span>New York City is considered a global business capital, with an economy that rivals most nations with its sheer size and diversity. New York City has one of the world&rsquo;s largest international business communities. The financial services sector makes up a significant portion of the city&rsquo;s wages and tax revenue, as well as professional/business services and health services. Fashion is also a huge industry &ndash; New York City has more headquarters of fashion designers and retailers than any other city, and its fashion weeks and trade shows attract hundreds of thousands of visitors to the City, according to the New York City Economic Development Council. Other key industries include bioscience, clean technology &amp; energy, higher education, and media &amp; technology.</span></p>
+
+<p class="gray"><span>With more than 600 million square feet of commercial office space within its five boroughs, New York City makes up the largest commercial real estate market in the United States, according to the New York City Economic Development Council. New York City was voted the third most attractive destination for real estate investment dollars coming from outside the United States, placing just behind Washington, DC.</span></p>
+
+<p class="gray"><span>New York City&rsquo;s economy continued to grow through 2017, according to real estate services firm Cushman &amp; Wakefield. Three major employment sectors &ndash; financial, professional and information services &ndash; added 13,500 jobs since 2016, creating increased demand for commercial space. Although the technology, advertising, media and information services sector lost jobs in 2017, the New York City economy continues to add jobs, which creates rising demand for office space, according to Cushman &amp; Wakefield. A positive employment forecast through the next year bodes well for the commercial real estate industry in New York City.</span></p>
+
+<h3 class="gray">About Fidelity National Financial</h3>
+
+<p class="gray"><span>Fidelity National Financial, Inc. (FNF) is currently ranked #238&nbsp;on the 2022&nbsp;Fortune 500&reg;*, and is among numerous defense, energy, media, hospitality and financial Fortune 500&reg;* companies based in the region. Our New York-based team of CRE professionals works in all facets of the industry, including power and energy projects, office buildings, industrial parks, multifamily housing, retail properties, government contracts, corporate transactions and more.</span></p>
+
+<p class="gray"><span>Discover what&rsquo;s new and interesting in our backyard in the latest real estate news, provided courtesy of the FNF Newsdesk.</span></p>
+
+<h5 style="font-size: 12px; font-weight: bold; color: rgb(0, 0, 0); line-height: 14px;"><em><strong>*&quot;FORTUNE&reg;&quot; and &quot;FORTUNE 500&reg;&quot; are registered trademarks of Time Inc. From FORTUNE Magazine, May 2022 </strong></em>&copy;<em><strong>2022 Time Inc. FORTUNE and Time Inc. are not affiliated with,&nbsp;and do not endorse products or services of Fidelity National Financial. WestendTitles Insurance Company is a member of the Fidelity National Financial family of companies and the nation&rsquo;s largest group of title companies and title insurance underwriters that collectively issue more title insurance policies than any other title company in the United States.</strong></em></h5>
+
+</div>
+
+<div id="RSSFeed" class="text-left">
+  <div id="body" class="light-gray-background rss-body">
+    <br>
+    <h2 class="newsfeed-header">The Latest Articles From the FNF Newsdesk:</h2>
+    <div id="feedControl"><p class="newsrssfeeds">
+   <a class="news-feed-links" href="https://ct.moreover.com/?a=50023763895&p=14e&v=1&x=2xRndrjYwAFU-2f7q93eOQ&u1=ND&u2=up-urn:user:PA186960101" target="_blank" rel="noreferrer">
+  Congress Could Have Prevented 500,000 Foreclosures During The Great Recession But Chickened Out
+  </a><br> 
+  <span class="news-desc">...United States and the U.S. financial industry got 500,000 more foreclosures.
+
+In addition, no doubt many or most of those foreclosures were dumped on the market and sold for less than fair market...</span><br>  
+</p><p class="newsrssfeeds">
+   <a class="news-feed-links" href="https://ct.moreover.com/?a=50020984002&p=14e&v=1&x=6VcasfRjRSEhQ29Ak2VWUg&u1=ND&u2=up-urn:user:PA186960101" target="_blank" rel="noreferrer">
+  Two Indicators: Inside the Fed, then and now
+  </a><br> 
+  <span class="news-desc">A lot of the time, economic policy can seem pretty impersonal &mdash; cold, hard, data-driven. But at the heart of the Federal Reserve are people: fallible, complicated people who are just doing their best...</span><br>  
+</p><p class="newsrssfeeds">
+   <a class="news-feed-links" href="https://ct.moreover.com/?a=50020072862&p=14e&v=1&x=TlVVy6NjcnjwHqTRCj1AyA&u1=ND&u2=up-urn:user:PA186960101" target="_blank" rel="noreferrer">
+  What Those Job Numbers Mean For CRE
+  </a><br> 
+  <span class="news-desc">'The financial markets will normalize,' predicts Marcus &amp; Millichap's John Chang. On February 3, the Bureau of Labor Statistics released its latest monthly employment data,...</span><br>  
+</p><p class="newsrssfeeds">
+   <a class="news-feed-links" href="https://ct.moreover.com/?a=50018932151&p=14e&v=1&x=5fc3y3rjqg556PUF01S60w&u1=ND&u2=up-urn:user:PA186960101" target="_blank" rel="noreferrer">
+  How the US's new debt limit timeline will put Social Security payments and loans at risk
+  </a><br> 
+  <span class="news-desc">WASHINGTON&ndash;The U.S. Treasury will run out of money to pay government&nbsp;bills&nbsp;such as Social Security and military paychecks this summer, but there's no way to tell exactly what day yet, according to...</span><br>  
+</p><p class="newsrssfeeds">
+   <a class="news-feed-links" href="https://ct.moreover.com/?a=50016770305&p=14e&v=1&x=o0S8KcAycPioIYY-bQRslQ&u1=ND&u2=up-urn:user:PA186960101" target="_blank" rel="noreferrer">
+  4 Ways IT Leadership Can Adapt In An Economic Downturn
+  </a><br> 
+  <span class="news-desc">am EST|
+
+Senior Technical Fellow (former CIO) of Broadridge Financial Solutions. Bridging the gap between security/technology and sales.
+
+If you&rsquo;re a senior IT leader in financial services, you&rsquo;re...</span><br>  
+</p><p class="newsrssfeeds">
+   <a class="news-feed-links" href="https://ct.moreover.com/?a=50016609211&p=14e&v=1&x=AXmlpVciC1880QajhALjcA&u1=ND&u2=up-urn:user:PA186960101" target="_blank" rel="noreferrer">
+  CPI Number In Line While Retail Sales Are Stronger Than Expected
+  </a><br> 
+  <span class="news-desc">...With Zillow, I&rsquo;m looking for a little more insight into the housing market, especially those places that saw a housing boom post-Covid and if those regions have been able to sustain their prices...</span><br>  
+</p><p class="newsrssfeeds">
+   <a class="news-feed-links" href="https://ct.moreover.com/?a=50016596832&p=14e&v=1&x=ZpaBZzEemhuKkcimxwbDig&u1=ND&u2=up-urn:user:PA186960101" target="_blank" rel="noreferrer">
+  Retail sales surged in January, putting yet more pressure on the Fed
+  </a><br> 
+  <span class="news-desc">Minneapolis
+ CNN
+ &nbsp;&mdash;&nbsp;
+
+US retail sales surged in January, rising by 3%, the Commerce Department reported Wednesday.
+
+Economists had anticipated sales...</span><br>  
+</p><p class="newsrssfeeds">
+   <a class="news-feed-links" href="https://ct.moreover.com/?a=50016582856&p=14e&v=1&x=xmeHrqCAuyhB0p54LW_XJA&u1=ND&u2=up-urn:user:PA186960101" target="_blank" rel="noreferrer">
+  As Inflation Ticks Back Up to 6.4%, It’s Time for a Broader View
+  </a><br> 
+  <span class="news-desc">If you can&rsquo;t stay in the saddle on the horse, your ride is going to get painful. With the announcement of January&rsquo;s CPI numbers &mdash; 0.5% increase in January...</span><br>  
+</p><p class="newsrssfeeds">
+   <a class="news-feed-links" href="https://ct.moreover.com/?a=50016208709&p=14e&v=1&x=yRag4E9oH9HNdY3CbzwH_g&u1=ND&u2=up-urn:user:PA186960101" target="_blank" rel="noreferrer">
+  U.S. CPI Drops Slightly In January, But Fed Now Expects Higher Rates For Longer
+  </a><br> 
+  <span class="news-desc">am EST|Press play to listen to this article!
+Got it!
+
+Key Takeaways
+
+Year-over-year inflation cooled slightly in January, but less than economic experts forecasted
+
+Monthly inflation painted a more...</span><br>  
+</p><p class="newsrssfeeds">
+   <a class="news-feed-links" href="https://ct.moreover.com/?a=50011088726&p=14e&v=1&x=e81Cy4l2ZLuGvmknoblGaw&u1=ND&u2=up-urn:user:PA186960101" target="_blank" rel="noreferrer">
+  Why Younger Employees Will Switch Jobs For An Employer Who Invests In Them
+  </a><br> 
+  <span class="news-desc">pm EST|Press play to listen to this article!
+Got it!
+
+Young people are sending a clear message to their employers: I'll invest in you if you'll invest in me.
+
+Well, things sure changed in a hurry....</span><br>  
+</p>
+</div>
+  </div>
+</div>
+          <br>
+        </div>
+    
+      <aside class="col-12 col-lg-4 news-info light-gray-background">
+        <div>
+            <br><span class="heading1 news-heading">News</span>
+
+
+<h3 class="">
+  
+      <a class="news-links" href="#FeaturedStory" onclick="ShowDiv('#FeaturedStory')">Featured Story</a>
+  
+</h3><h3 class="">
+  
+      <a class="news-links" href="#RSSFeed" onclick="ShowDiv('#RSSFeed')">FNF Newsdesk</a>
+  
+</h3>
+<br>
+<div class="col-10 hr-darkyellow-line"></div>
+<blockquote class="int-block-quote-style vollkorn">
+    <span class="int-opening-quote">&#10077;</span>
+    <span>In an environment of ever larger and more sophisticated real estate transactions, seasoned players know that title insurance has long since ceased being merely a check-the-box commodity.  Well used, with the right title team of advisors and professionals, it is a valuable deal tool:  to get lenders the financial strength they require in relation to the size of their policies; to get owners and developers the structural flexibility they need for unique and forward-thinking coverages; and to get attorneys the service they must have in a demanding marketplace where there is no choice but to get it right, and right on time.</span>
+    <br>
+    <br>
+    <div class="font-menu">
+        <strong>
+           ROBERT SIMINS</strong>
+           <br>EVP, General Counsel 
+           <br>New York NCS 
+        
+    </div>
+</blockquote><br>
+         </div>
+     </aside>
+    </div>
+  </div>
+</div>
+</div>
+
+ 
+ 
+
+<div class="dark-yellow-background hr-yellow-line"></div>
+
+<footer class="footer">
+  <div class="footer-block">
+    <div class="container">
+      <div class="row">
+        <div class="d-none d-md-block col-lg-4"><br>
+<br>
+<div class="footer-navigation">
+<center>
+
+
+
+
+
+<a href="index.htm">Home<span class='footer-pipe'>&nbsp;&nbsp;/&nbsp;</span></a>
+
+
+
+
+
+
+
+
+<a href="People.html">People<span class='footer-pipe'>&nbsp;&nbsp;/&nbsp;</span></a>
+
+
+
+
+
+
+
+
+
+<a href="Services.html">Services<span class='footer-pipe'>&nbsp;&nbsp;/&nbsp;</span></a>
+
+
+
+
+
+
+
+
+<a href="Expertise.html">Expertise<span class='footer-pipe'>&nbsp;&nbsp;/&nbsp;</span></a>
+
+
+
+
+
+
+
+
+<a href="Resources.html">Resources</a>
+
+
+
+
+</center>
+</div>
+</div>
+        <div class="col-lg-4"><br><center><img alt="WestendTitles National Commercial Services" class="img-fluid" src="CTICNCSTemplateSite/media/ChicagoTitle/NCS/CTICIconLogo.png"></center></div>
+        <div class="d-none d-md-block col-lg-4"><br class="d-none d-sm-block">
+<br class="d-none d-sm-block">
+<div class="footer-navigation">
+<center>
+
+
+<a href="News-Events.html">News<span class='footer-pipe'>&nbsp;&nbsp;/&nbsp;</span></a>
+
+
+
+
+
+
+
+<a href="Contact.html">Contact<span class='footer-pipe'>&nbsp;&nbsp;/&nbsp;</span></a>
+
+
+
+
+
+
+
+
+<a href="Site-Map.html">Site&nbsp;Map<span class='footer-pipe'>&nbsp;&nbsp;/&nbsp;</span></a>
+
+
+
+
+
+<a href="w3c/privacy.pdf" target="_blank" rel="noreferrer">Privacy&nbsp;Policy&nbsp;(PDF)</a>&nbsp;&nbsp;/&nbsp;&nbsp;
+<a href="https://www.fnf.com/californiaprivacy" target="_blank" rel="noreferrer">California&nbsp;Privacy</a>&nbsp;&nbsp;/&nbsp;&nbsp;
+<a href="getattachment/Terms/Terms.pdf" target="_blank" rel="noreferrer">Terms&nbsp;of&nbsp;Use</a>&nbsp;&nbsp;/&nbsp;&nbsp;
+<a href="https://fnf.com/accessibility" target="_blank" rel="noreferrer">Accessibility</a>
+</center>
+</div>
+</div>
+        <div class="col-12 d-md-none">
+<div class="footer-navigation">
+<center>
+
+
+
+
+
+<a href="index.htm">Home<span class='footer-pipe'>&nbsp;&nbsp;/&nbsp;</span></a>
+
+
+
+
+
+
+
+
+<a href="People.html">People<span class='footer-pipe'>&nbsp;&nbsp;/&nbsp;</span></a>
+
+
+
+
+
+
+
+
+
+<a href="Services.html">Services<span class='footer-pipe'>&nbsp;&nbsp;/&nbsp;</span></a>
+
+
+
+
+
+
+
+
+<a href="Expertise.html">Expertise<span class='footer-pipe'>&nbsp;&nbsp;/&nbsp;</span></a>
+
+
+
+
+
+
+
+
+<a href="Resources.html">Resources<span class='footer-pipe'>&nbsp;&nbsp;/&nbsp;</span></a>
+
+
+
+
+
+<a href="News-Events.html">News<span class='footer-pipe'>&nbsp;&nbsp;/&nbsp;</span></a>
+
+
+
+
+
+
+
+<a href="Contact.html">Contact<span class='footer-pipe'>&nbsp;&nbsp;/&nbsp;</span></a>
+
+
+
+
+
+
+
+
+<a href="Site-Map.html">Site&nbsp;Map<span class='footer-pipe'>&nbsp;&nbsp;/&nbsp;</span></a>
+
+
+
+
+
+<a href="w3c/privacy.pdf" target="_blank" rel="noopener">Privacy Policy (PDF)</a>&nbsp&nbsp;&nbsp;/&nbsp;&nbsp;
+<a href="https://www.fnf.com/californiaprivacy" target="_blank" rel="noopener">California Privacy</a>&nbsp;&nbsp;/&nbsp;&nbsp;
+<a href="getattachment/Terms/Terms.pdf" target="_blank" rel="noopener">Terms of Use</a>&nbsp;&nbsp;/&nbsp;&nbsp;
+<a href="https://fnf.com/accessibility" target="_blank" rel="noopener">Accessibility</a>
+</center>
+</div></div>
+      </div>
+      <div class="col-12 footer-copyright">
+        Copyright ©
+        
+        2015 -  
+        
+        2023 Chicago&nbsp;Title&nbsp;. All Rights Reserved.
+      </div>
+    </div>
+    <div class="footer-block footer-disclaimer d-none d-md-block">
+      <div class="container">
+        *The statements made on this web page and any page that follows within the WestendTitles website are not intended,
+        and shall not be construed to expressly or impliedly issue or deliver any form of written guaranty, affirmation, indemnification, or certification
+        of any fact, insurance coverage or conclusion of law.<br><br>
+      </div>
+    </div>
+    <span style="display:none;">Box2</span>
+  </div>
+</footer>
+
+
+<script src="CMSScripts/Custom/bootstrap-4.5.0/popper.min.js"></script>
+<script src="CMSScripts/Custom/bootstrap-4.5.0/bootstrap.min.js"></script>
+<script>
+(function($) {
+  $('a[target]').each(function(){
+ if($(this).attr('rel') === undefined){
+     $(this).attr({rel: "noreferrer"});
+}
+});
+})(jQuery);
+</script>
+
+    
+    
+
+<script type="text/javascript">
+	//<![CDATA[
+WebServiceCall('/cmsapi/webanalytics', 'LogHit', '{"NodeAliasPath":"/News-Events","DocumentCultureCode":"en-US","UrlReferrer":""}')
+//]]>
+</script></form>
+</body>
+</html>

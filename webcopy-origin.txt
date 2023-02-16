@@ -1,0 +1,1204 @@
+Uri: http://platform.linkedin.com/in.js?async=true
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\in-1.js
+Content Type: text/javascript
+
+Uri: https://connect.facebook.net/en_US/sdk.js
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\en_US\sdk-1.js
+Content Type: application/x-javascript
+
+Uri: https://fnf.com/getattachment/Terms/terms.pdf?lang=en-US
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Terms\Terms-1.pdf
+Content Type: application/pdf
+
+Uri: https://fnf.com/getmedia/3baf94a5-ae00-4a1f-9593-68eda5f3cb4d/FS_CTIC_NCS.pdf
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getmedia\3baf94a5-ae00-4a1f-9593-68eda5f3cb4d\FS_CTIC_NCS-1.pdf
+Content Type: application/pdf
+
+Uri: https://fntg.com/w3c/privacy.pdf
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\w3c\privacy-1.pdf
+Content Type: application/pdf
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat&family=Noticia+Text&display=swap
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew--1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/noticiatext/v15/VuJ2dNDF2Yv9qppOePKYRP1GYQ.ttf
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\s\noticiatext\v15\VuJ2dNDF2Yv9qppOePKYRP1GYQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://newyorkncs.ctic.com/
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\index-1.htm
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Alecia-Erica-Farquharson
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Alecia-Erica-Farquharson-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Ashley-Drepaul
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Ashley-Drepaul-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/CMSPages/GetResource.ashx?scriptfile=~%2fCMSScripts%2fWebServiceCall.js
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CMSPages\WebServiceCall-1.js
+Content Type: application/x-javascript
+
+Uri: https://newyorkncs.ctic.com/CMSPages/GetResource.ashx?stylesheetname=bootstrap.min
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CMSPages\Bootstrap.min-1.css
+Content Type: text/css
+
+Uri: https://newyorkncs.ctic.com/CMSPages/GetResource.ashx?stylesheetname=CT_main
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CMSPages\CT_main-1.css
+Content Type: text/css
+
+Uri: https://newyorkncs.ctic.com/CMSPages/GetResource.ashx?stylesheetname=font-awesome.min
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CMSPages\Font-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://newyorkncs.ctic.com/CMSScripts/Custom/bootstrap-4.5.0/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CMSScripts\Custom\bootstrap-4.5.0\bootstrap.min-1.js
+Content Type: application/javascript
+
+Uri: https://newyorkncs.ctic.com/CMSScripts/Custom/bootstrap-4.5.0/popper.min.js
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CMSScripts\Custom\bootstrap-4.5.0\popper.min-1.js
+Content Type: application/javascript
+
+Uri: https://newyorkncs.ctic.com/CMSScripts/Custom/jquery-3.5.1.slim.min.js
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CMSScripts\Custom\jquery-3.5.1.slim.min-1.js
+Content Type: application/javascript
+
+Uri: https://newyorkncs.ctic.com/Contact
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Contact-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/banner_icons/header_icon_1031Exchange.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\banner_icons\header_icon_1031Exchange-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/banner_icons/header_icon_ClosingEscrow.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\banner_icons\header_icon_ClosingEscrow-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/banner_icons/header_icon_ConstructionDisbursing.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\banner_icons\header_icon_ConstructionDisbursing-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/banner_icons/header_icon_contact.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\banner_icons\header_icon_contact-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/banner_icons/header_icon_expertise.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\banner_icons\header_icon_expertise-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/banner_icons/header_icon_FAQ.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\banner_icons\header_icon_FAQ-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/banner_icons/header_icon_industrylinks.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\banner_icons\header_icon_industrylinks-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/banner_icons/header_icon_newsandevents.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\banner_icons\header_icon_newsandevents-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/banner_icons/header_icon_NewYorkFormsLibrary.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\banner_icons\header_icon_NewYorkFormsLibrary-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/banner_icons/header_icon_people.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\banner_icons\header_icon_people-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/banner_icons/header_icon_RealEstateGlossary.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\banner_icons\header_icon_RealEstateGlossary-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/banner_icons/header_icon_resources.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\banner_icons\header_icon_resources-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/banner_icons/header_icon_services.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\banner_icons\header_icon_services-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/banner_icons/header_icon_SiteMap.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\banner_icons\header_icon_SiteMap-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/banner_icons/header_icon_StateLinks.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\banner_icons\header_icon_StateLinks-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/banner_icons/header_icon_TitleInsurance.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\banner_icons\header_icon_TitleInsurance-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/banner_icons/header_icon_UCCPlus.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\banner_icons\header_icon_UCCPlus-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/CityScape_PC.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\CityScape_PC-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/CTICIconLogo.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\CTICIconLogo-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/expertise/bio_icons/AgricultureLandIcon_black.png?ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\expertise\bio_icons\AgricultureLandIcon_black-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/expertise/bio_icons/CorporateTransactionsIcon_black.png?ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\expertise\bio_icons\CorporateTransactionsIcon_black-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/expertise/bio_icons/GovernmentIcon_black.png?ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\expertise\bio_icons\GovernmentIcon_black-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/expertise/bio_icons/HealthcareIcon_black.png?ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\expertise\bio_icons\HealthcareIcon_black-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/expertise/bio_icons/HospitalityIcon_black.png?ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\expertise\bio_icons\HospitalityIcon_black-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/expertise/bio_icons/Multifamily_black.png?ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\expertise\bio_icons\Multifamily_black-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/expertise/bio_icons/NewConstruction_black.png?ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\expertise\bio_icons\NewConstruction_black-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/expertise/bio_icons/OfficeBuldingsIcon_black.png?ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\expertise\bio_icons\OfficeBuldingsIcon_black-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/expertise/bio_icons/PowerEnergyIcon_black.png?ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\expertise\bio_icons\PowerEnergyIcon_black-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/expertise/bio_icons/RetailRestaurantIcon_black.png?ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\expertise\bio_icons\RetailRestaurantIcon_black-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/expertise/home_icons/AgricultureLandIcon.png?ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\expertise\home_icons\AgricultureLandIcon-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/expertise/home_icons/GovernmentIcon.png?ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\expertise\home_icons\GovernmentIcon-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/expertise/home_icons/HealthcareIcon.png?ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\expertise\home_icons\HealthcareIcon-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/expertise/home_icons/HospitalityIcon.png?ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\expertise\home_icons\HospitalityIcon-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/expertise/home_icons/MultifamilyIcon.png?ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\expertise\home_icons\MultifamilyIcon-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/expertise/home_icons/OfficeBuldingsIcon.png?ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\expertise\home_icons\OfficeBuldingsIcon-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/expertise/home_icons/PowerEnergyIcon.png?ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\expertise\home_icons\PowerEnergyIcon-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/expertise/home_icons/RetailRestaurantIcon.png?ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\expertise\home_icons\RetailRestaurantIcon-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/favicon_CT.ico
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\favicon_CT-1.ico
+Content Type: image/x-icon
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/NearYou_Right.jpg
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\NearYou_Right-1.jpg
+Content Type: image/jpeg
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/services/home_icons/header_icon_1031Exchange.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\services\home_icons\header_icon_1031Exchange-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/services/home_icons/header_icon_ClosingEscrow.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\services\home_icons\header_icon_ClosingEscrow-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/services/home_icons/header_icon_ConstructionDisbursing.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\services\home_icons\header_icon_ConstructionDisbursing-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/services/home_icons/header_icon_RecordingProjects.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\services\home_icons\header_icon_RecordingProjects-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/services/home_icons/header_icon_TitleInsurance.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\services\home_icons\header_icon_TitleInsurance-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/services/home_icons/header_icon_UCCPlus.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\services\home_icons\header_icon_UCCPlus-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/services/home_icons/services_icon_ClosingEscrow.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\services\home_icons\services_icon_ClosingEscrow-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/services/home_icons/services_icon_UCCPlus.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\services\home_icons\services_icon_UCCPlus-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/vcard.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\vcard-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/CTICNCSTemplateSite/media/ChicagoTitle/NCS/WhoWeAreBG_PC.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\CTICNCSTemplateSite\media\ChicagoTitle\NCS\WhoWeAreBG_PC-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/Derek-W-Brown
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Derek-W-Brown-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Elliot-L-Hurwitz
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Elliot-L-Hurwitz-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Expertise
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Expertise-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/FNTNCSCalifornia/media/images/unstructured/FNTNCScarouselbg.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\FNTNCSCalifornia\media\images\unstructured\FNTNCScarouselbg-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/FNT_NCS_Template_Site/media/FidelityNationalTitle/NCS/CollapseIcon.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\FNT_NCS_Template_Site\media\FidelityNationalTitle\NCS\CollapseIcon.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/Gelsomina-Gambardella-Terrasi
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Gelsomina-Gambardella-Terrasi-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/getattachment/01994862-350d-4e62-9122-9dddbdd21420/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\01994862-350d-4e62-9122-9dddbdd21420\Nigel-Drepaul-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/0a05635f-8399-4a42-b7b9-5b9a2601997c/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\0a05635f-8399-4a42-b7b9-5b9a2601997c\UCC1Ad-revised-6-01-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/0b93e4fd-75a4-473c-a439-88e9cf5972e0/Terrasi_Jessie.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\0b93e4fd-75a4-473c-a439-88e9cf5972e0\Terrasi_Jessie-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/0d1e1f17-f6da-4e73-bb2f-d1a810f54750/Home
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\0d1e1f17-f6da-4e73-bb2f-d1a810f54750\banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://newyorkncs.ctic.com/getattachment/10039c1c-9e5e-4d9d-b6fb-50fabd512986/Derek-Brown.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\10039c1c-9e5e-4d9d-b6fb-50fabd512986\Derek-Brown-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/112040e4-5903-4ed2-87bc-6618f8a9ee24/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\112040e4-5903-4ed2-87bc-6618f8a9ee24\Coop-Contract-of-Sale-legal-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/13ba734d-7eba-4136-8adc-d8a383f2052a/Varano_Mario.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\13ba734d-7eba-4136-8adc-d8a383f2052a\Varano_Mario-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/148c5fb0-1ed3-4f46-871e-1b8902152444/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\148c5fb0-1ed3-4f46-871e-1b8902152444\Last-Will-and-Testament-legal-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/14be7d8e-94a2-4038-a231-e57917a8bfac/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\14be7d8e-94a2-4038-a231-e57917a8bfac\Ashley-Drepaul-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/1604f0ac-9a9d-445e-8066-3c3179cb5bc9/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\1604f0ac-9a9d-445e-8066-3c3179cb5bc9\Alecia-Farquharson-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/162a6f06-1947-47db-a3be-aed41429326a/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\162a6f06-1947-47db-a3be-aed41429326a\UCC1-Financing-Statement-rev-5-22-02-letter-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/183d3d2c-6f07-4b14-ada9-4be6b08ce5fa/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\183d3d2c-6f07-4b14-ada9-4be6b08ce5fa\Jennifer-Beltrami-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/19ee9a59-398f-4a43-9ba1-4f80ac92e1d6/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\19ee9a59-398f-4a43-9ba1-4f80ac92e1d6\Residential-Contract-of-Sale-2001-legal-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/1c5deb80-c4e9-48d2-8733-09c0cde70d09/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\1c5deb80-c4e9-48d2-8733-09c0cde70d09\Contract-of-Sale-form-8068-2000-legal-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/1d93d817-2d40-49dd-8779-16172c0511ef/built_350x350px.png?lang=en-US&width=175&height=175
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\1d93d817-2d40-49dd-8779-16172c0511ef\built_350x350px-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/1fb87350-5e57-410e-8214-fc9807c64972/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\1fb87350-5e57-410e-8214-fc9807c64972\Referees-Deed-in-Foreclosure-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/210b60de-974b-4e69-aa50-50531dcb1c40/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\210b60de-974b-4e69-aa50-50531dcb1c40\Bargain-and-Sale-Deed-with-cov-Form-8002-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/22c01918-2000-4f65-b0b7-4da2bb54f30a/attachment.aspx
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\22c01918-2000-4f65-b0b7-4da2bb54f30a\news_banner-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/24ecbf48-dcac-4050-85b4-fe4fa847adc6/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\24ecbf48-dcac-4050-85b4-fe4fa847adc6\Attorney-check-list-legal-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/258ee63d-ad58-49da-afee-41488176afa7/Joe-Benlevi.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\258ee63d-ad58-49da-afee-41488176afa7\Joe-Benlevi-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/25c6be94-39ed-4fd5-b7c3-64db9a36dd6f/Farquharson_Alecia.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\25c6be94-39ed-4fd5-b7c3-64db9a36dd6f\Farquharson_Alecia-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/28e74a66-d586-4a8b-a844-591dc6eecbe2/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\28e74a66-d586-4a8b-a844-591dc6eecbe2\Neal-Miranda-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/2c233f73-e5d7-4ec7-94f2-40eb714c55d4/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\2c233f73-e5d7-4ec7-94f2-40eb714c55d4\Matt-Bliwise-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/2e89aabf-8c02-4ff7-ad41-227cf499e26e/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\2e89aabf-8c02-4ff7-ad41-227cf499e26e\Mario-Varano-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/32811d1a-6db5-4d89-b4ff-9c72ada2acca/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\32811d1a-6db5-4d89-b4ff-9c72ada2acca\Building-Loan-Contract-legal-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/330ba78c-e774-4944-91ca-e9ce1893a4de/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\330ba78c-e774-4944-91ca-e9ce1893a4de\Building-Loan-Mortgage-rev-Jan-1997-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/335f0ab8-0899-4f24-a5c5-b4a4ff6b0365/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\335f0ab8-0899-4f24-a5c5-b4a4ff6b0365\Joe-Benlevi-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/34072db0-d945-4861-926f-af5bb878eaf1/Marino_Jack.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\34072db0-d945-4861-926f-af5bb878eaf1\Marino_Jack-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/3584e9b7-28a9-41e6-a080-00cbf4e88e67/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\3584e9b7-28a9-41e6-a080-00cbf4e88e67\Kristen-Simat-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/36f7ccaf-1099-4db3-8001-edc51deb6b92/Home
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\36f7ccaf-1099-4db3-8001-edc51deb6b92\3_banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://newyorkncs.ctic.com/getattachment/3819d8c1-2de3-4ff6-a3cf-87458aa30f4b/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\3819d8c1-2de3-4ff6-a3cf-87458aa30f4b\Contract-Amendment-letter-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/3f60b656-92bc-4632-89de-a4bdb24f4ebf/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\3f60b656-92bc-4632-89de-a4bdb24f4ebf\Mark-Krivelevich-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/437425d3-3ab1-40cf-bec1-e8ef87187d96/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\437425d3-3ab1-40cf-bec1-e8ef87187d96\Satisfaction-of-Judgment-letter-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/441cd755-dd2c-419d-81dc-c74f0e4c36a4/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\441cd755-dd2c-419d-81dc-c74f0e4c36a4\Mortgage-Note-Form-8011-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/49facfec-54ed-4c59-9ce7-431b6c6d103f/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\49facfec-54ed-4c59-9ce7-431b6c6d103f\Neil-Falcone-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/4a220759-9e98-4d08-8f30-1d2f91f01a96/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\4a220759-9e98-4d08-8f30-1d2f91f01a96\Administrators-Deed-Form-8005-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/4a31e58b-79d4-476f-9ad5-338fd56fc46b/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\4a31e58b-79d4-476f-9ad5-338fd56fc46b\Holdover-Agreement-Short-form-legal-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/4eccdffa-e311-435c-9d02-3613c5062e62/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\4eccdffa-e311-435c-9d02-3613c5062e62\Michelle-CruzBingham-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/4f3a6b83-5f24-4012-ae58-8f307bdb827d/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\4f3a6b83-5f24-4012-ae58-8f307bdb827d\Contract-of-Sale-vacant-land-letter-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/53cced65-b38b-4eae-8801-5764a0ecfcd4/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\53cced65-b38b-4eae-8801-5764a0ecfcd4\Property-Condition-Disclosure-Statement-letter-size.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/56daecbc-c687-4a08-8f5c-b1f89118a571/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\56daecbc-c687-4a08-8f5c-b1f89118a571\Condo-Unit-Contract-of-Sale-legal-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/56f68598-5948-414f-a4b0-ddc9b7c62dc9/CTNoBio.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\56f68598-5948-414f-a4b0-ddc9b7c62dc9\CTNoBio-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/58881ca8-279b-4b2f-a8e2-57a5c3440105/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\58881ca8-279b-4b2f-a8e2-57a5c3440105\Collateral-Assignment-of-Leases-and-Rents-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/5cddcbc6-f78e-4591-9b55-23c1fd486b21/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\5cddcbc6-f78e-4591-9b55-23c1fd486b21\Holdover-Agreement-Long-form-legal-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/5f095f94-2eb7-48fd-aeee-4182e0eba9eb/Simins_Robert.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\5f095f94-2eb7-48fd-aeee-4182e0eba9eb\Simins_Robert-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/676168bf-0593-4ace-9aeb-94862f88d630/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\676168bf-0593-4ace-9aeb-94862f88d630\Mortgage-Splitter-Agreement-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/6a8d9814-8f56-488a-8456-5d9c49f8d7fd/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\6a8d9814-8f56-488a-8456-5d9c49f8d7fd\Termination-of-Contract-of-Sale-letter-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/6ca36bcc-1002-4ac6-91f0-1d6d12010162/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\6ca36bcc-1002-4ac6-91f0-1d6d12010162\Siu-Cheung-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/6e51582d-56ff-4739-9c41-b917440812b8/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\6e51582d-56ff-4739-9c41-b917440812b8\Owners-Estoppel-Cerficate-legal-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/6f26507d-5330-4665-9da1-69800a5db0c9/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\6f26507d-5330-4665-9da1-69800a5db0c9\Mark-Marmer-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/6fb9babb-1a75-4f6e-81e9-0b0558068f73/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\6fb9babb-1a75-4f6e-81e9-0b0558068f73\Rider-Clauses-to-contract-of-sale-Purchaser-legal-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/7154d406-77bd-4ea8-8898-d9c605cbaba3/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\7154d406-77bd-4ea8-8898-d9c605cbaba3\Timothy-Ring-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/7480ef3b-8990-49d9-870d-1b216de3aa29/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\7480ef3b-8990-49d9-870d-1b216de3aa29\Executors-Deed-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/753f14c5-abb6-4357-9cbe-c64093a5cfca/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\753f14c5-abb6-4357-9cbe-c64093a5cfca\SE-193-Name-Change-Endorsement-(Ticor-to-Chicago-New-York)_070110-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/764233ec-5cc9-481e-8752-82463b2ee375/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\764233ec-5cc9-481e-8752-82463b2ee375\Mortgage-Note-Form-8011-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/7f7708e2-18b3-48fc-86b7-0d2e6c514743/Ring_Timothy.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\7f7708e2-18b3-48fc-86b7-0d2e6c514743\Ring_Timothy-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/8418693a-dcb8-4731-ba60-2c726c555278/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\8418693a-dcb8-4731-ba60-2c726c555278\Memo-of-Contract-of-sale-letter-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/9048c551-c219-49ae-b472-4e4d7fe7edef/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\9048c551-c219-49ae-b472-4e4d7fe7edef\Referee-s-Report-of-Sale-letter-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/9201c1a0-486c-42b7-b81b-687a8f344edf/Marmer_Mark.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\9201c1a0-486c-42b7-b81b-687a8f344edf\Marmer_Mark-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/926ebc17-1cdc-47ef-b7c0-c5af728f8938/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\926ebc17-1cdc-47ef-b7c0-c5af728f8938\Rider-to-contract-of-sale-Purchase-Money-Mortgage-Clause-letter-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/928cccfa-f984-405e-be18-c6ef90f7c410/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\928cccfa-f984-405e-be18-c6ef90f7c410\Satisfaction-of-Mechanics-lien-legal-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/9436be0a-7d57-4fba-b6c8-95c0881753f9/Hurwitz_Elliot.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\9436be0a-7d57-4fba-b6c8-95c0881753f9\Hurwitz_Elliot-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/94bf154a-af21-47e0-8942-0064d05ae14f/Drepaul_Nigel.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\94bf154a-af21-47e0-8942-0064d05ae14f\Drepaul_Nigel-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/96929642-a195-4744-8758-5f40d8e68395/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\96929642-a195-4744-8758-5f40d8e68395\Mortgage-Note-Form-8011-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/96d4c24a-e055-465c-81fa-2e498d37fe55/NY_Recording_Fees_Taxes.pdf?lang=en-US
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\96d4c24a-e055-465c-81fa-2e498d37fe55\NY_Recording_Fees_Taxes-1.pdf
+Content Type: application/pdf
+
+Uri: https://newyorkncs.ctic.com/getattachment/981730b2-80a0-41e0-ae66-e03e1c265c22/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\981730b2-80a0-41e0-ae66-e03e1c265c22\Assignment-of-Mortgage-without-covenants-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/9979b0ec-6fd2-453c-88ed-2c19a679bc3b/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\9979b0ec-6fd2-453c-88ed-2c19a679bc3b\Subordinate-Mortgage-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/9de6a62f-b98e-4ff9-9d01-939024921cfd/Lisa-Zicchinella.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\9de6a62f-b98e-4ff9-9d01-939024921cfd\Lisa-Zicchinella-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/9ecc6f5e-91dd-488e-9652-c4b1b4c77cf9/Falcone_Neil.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\9ecc6f5e-91dd-488e-9652-c4b1b4c77cf9\Falcone_Neil-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/a09e702e-6428-4af8-b471-f31aebdd4280/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\a09e702e-6428-4af8-b471-f31aebdd4280\lead-paint-disclosure-form-letter-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/a336599c-eaea-434e-8e85-e9daededf98f/Home
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\a336599c-eaea-434e-8e85-e9daededf98f\CT175-Kentico_Web_Banner1-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/a421ece8-6c1f-4a0d-8990-195ffd9f4f10/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\a421ece8-6c1f-4a0d-8990-195ffd9f4f10\Power-of-Attorney-NY-Statutory-Short-Forn-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/a437929d-2ffd-432f-8149-7aa2c5d852a4/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\a437929d-2ffd-432f-8149-7aa2c5d852a4\Jack-Marino-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/a4977f47-6e59-4f2e-ac96-25f737702a54/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\a4977f47-6e59-4f2e-ac96-25f737702a54\Derek-Brown-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/a6240942-95e1-47dd-b954-5658a425d07d/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\a6240942-95e1-47dd-b954-5658a425d07d\Bargain-and-Sale-Deed-without-cov-Form-8001-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/ab19bfe5-7f0b-46a7-ae02-9f88357c2a9e/Simat_Kristen.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\ab19bfe5-7f0b-46a7-ae02-9f88357c2a9e\Simat_Kristen-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/adc88d92-45a7-4d35-aabd-54e29b277624/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\adc88d92-45a7-4d35-aabd-54e29b277624\Patricia-Lopinski-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/b3bb2d6e-f24e-4096-ba7d-26ba5a613bbf/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\b3bb2d6e-f24e-4096-ba7d-26ba5a613bbf\Contract-of-Sale-form-8041-legal-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/b46507e3-149b-415c-b0c0-d9bd92101317/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\b46507e3-149b-415c-b0c0-d9bd92101317\Joanne-Seorti-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/b549f664-449e-4e45-8f9e-97b7b40c8ebf/Michelle_Bingham.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\b549f664-449e-4e45-8f9e-97b7b40c8ebf\Michelle_Bingham-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/ba6c55f9-7906-47b5-a6f0-4f36f5280870/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\ba6c55f9-7906-47b5-a6f0-4f36f5280870\Warranty-Deed-with-cov-Form-8003-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/bad92037-1ff5-4fa3-bdc8-b934d65a8d87/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\bad92037-1ff5-4fa3-bdc8-b934d65a8d87\Acknowledgement-form-for-NY-and-outside-NY-State-letter-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/c013608b-b941-422e-ad92-b5fd0e50c2e5/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\c013608b-b941-422e-ad92-b5fd0e50c2e5\Jessie-Gambardella-Terrasi-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/c046cec2-2852-449d-aa95-820dd7e6ec16/SpecialServices_AncillaryFees_Rev1217.pdf?lang=en-US
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\c046cec2-2852-449d-aa95-820dd7e6ec16\SpecialServices_AncillaryFees_Rev1217-1.pdf
+Content Type: application/pdf
+
+Uri: https://newyorkncs.ctic.com/getattachment/c1ec13e8-a600-4373-95bd-f40919307e44/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\c1ec13e8-a600-4373-95bd-f40919307e44\John-Caruso-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/c6a4f327-7605-494e-bf0d-02852473145d/Lopinski_Patricia.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\c6a4f327-7605-494e-bf0d-02852473145d\Lopinski_Patricia-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/c92c05a5-bd84-42f0-82d4-517c8648e948/Bliwise_Matthew.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\c92c05a5-bd84-42f0-82d4-517c8648e948\Bliwise_Matthew-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/c9816bba-8cf1-4df8-8117-4942c58fdeae/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\c9816bba-8cf1-4df8-8117-4942c58fdeae\Lienors-Estoppel-Certificate-legal-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/ce228e23-f158-48c0-a699-d83eb26dcc91/Beltrami_Jennifer.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\ce228e23-f158-48c0-a699-d83eb26dcc91\Beltrami_Jennifer-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/cf1911d5-f6e1-4e0a-a0fa-301dfa8526f4/Miranda_Neal.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\cf1911d5-f6e1-4e0a-a0fa-301dfa8526f4\Miranda_Neal-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/cf53c292-ff74-49da-a8eb-257b2625e349/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\cf53c292-ff74-49da-a8eb-257b2625e349\Living-Will-letter-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/d0f52ebd-9990-4702-a863-7b8f248d5bf4/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\d0f52ebd-9990-4702-a863-7b8f248d5bf4\Quitclaim-Deed-Form-8004-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/d3d09f26-3d7d-4d5a-bf33-a76ed3ff526f/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\d3d09f26-3d7d-4d5a-bf33-a76ed3ff526f\Codicil-to-the-last-will-and-testament-letter-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/d634ca3d-ea96-4aae-947d-f94f56f4a3bd/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\d634ca3d-ea96-4aae-947d-f94f56f4a3bd\Robert-Simins-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/ddd13e4e-e9f1-4774-a4e4-ff9fac999ab3/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\ddd13e4e-e9f1-4774-a4e4-ff9fac999ab3\Lisa-Zicchinella-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/de174014-602a-4d74-a9d5-06503539cf86/Caruso_John.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\de174014-602a-4d74-a9d5-06503539cf86\Caruso_John-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/df1431e1-b1aa-40b8-a5ca-27df336a994f/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\df1431e1-b1aa-40b8-a5ca-27df336a994f\Notice-Under-Mechanics-lien-law-legal-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/e056a55b-b7be-4a1c-8b47-c377f8279748/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\e056a55b-b7be-4a1c-8b47-c377f8279748\Satisfaction-of-Mortgage-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/e0ccc0c1-cb47-4061-a58f-deb499abdae2/Home
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\e0ccc0c1-cb47-4061-a58f-deb499abdae2\2_banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://newyorkncs.ctic.com/getattachment/e3f9f0fc-2efe-41be-af15-70df1cda282a/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\e3f9f0fc-2efe-41be-af15-70df1cda282a\Elliot-Hurwitz-1.vcf
+Content Type: text/x-vcard
+
+Uri: https://newyorkncs.ctic.com/getattachment/e46735ea-6f8b-4941-a994-a16909c8306c/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\e46735ea-6f8b-4941-a994-a16909c8306c\Assignment-of-Mortgage-with-covenants-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/e9d65f63-200e-4231-befa-c81f52c09040/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\e9d65f63-200e-4231-befa-c81f52c09040\UCC3-Financing-Statement-rev-5-22-02-letter-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/eafc9bce-5bc5-4c13-91f1-2d3d8eb00ce1/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\eafc9bce-5bc5-4c13-91f1-2d3d8eb00ce1\Release-of-part-of-Mortgaged-premises-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/ec3f952e-acc0-4459-a275-608e2aef9d35/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\ec3f952e-acc0-4459-a275-608e2aef9d35\First-Mortgage-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/ed9fe17d-6ab1-48fb-b19a-f7d038a0b885/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\ed9fe17d-6ab1-48fb-b19a-f7d038a0b885\SE-192-Name-Change-Endorsement-(Lawyers-to-Fidelity-New-York)_070110-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/eff7ef26-1f11-4085-ae4c-b69d9cb7748f/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\eff7ef26-1f11-4085-ae4c-b69d9cb7748f\Spreader-Agreement-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/Expertise/Agriculture-Land/Agriculture.png?lang=en-US&width=796&height=227&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Expertise\Agriculture-Land\Agriculture-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/Expertise/Corporate-Transactions/Corporate.png?lang=en-US&width=405&height=306&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Expertise\Corporate-Transactions\Corporate-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/Expertise/Government/GovernmentBG.png?lang=en-US&width=400&height=300&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Expertise\Government\GovernmentBG-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/Expertise/Healthcare/HealthcareOutline.png?lang=en-US&width=472&height=243&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Expertise\Healthcare\HealthcareOutline-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/Expertise/Multi-family-Housing/MultifamilyShort.png?lang=en-US&width=400&height=283&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Expertise\Multi-family-Housing\MultifamilyShort-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/Expertise/New-Construction/NewConstruction.png?lang=en-US&width=415&height=353&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Expertise\New-Construction\NewConstruction-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/Expertise/Office-Industrial/OfficeIndustrialBG.png?lang=en-US&width=1200&height=377&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Expertise\Office-Industrial\OfficeIndustrialBG-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/Expertise/Power-Energy/EnergyBG_new.png?lang=en-US&width=800&height=400&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Expertise\Power-Energy\EnergyBG_new-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/Expertise/Retail-Restaurant/RetailImage_short.png?lang=en-US&width=528&height=352&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Expertise\Retail-Restaurant\RetailImage_short-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/f8ce4169-419f-4258-8fa2-2b33834275a0/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\f8ce4169-419f-4258-8fa2-2b33834275a0\Consolidation-Modification-and-Extension-Agreement-Form-3172-01-01-rev-5-01-legal-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/fe7d99ff-3df0-46a3-b463-b0627ff186cb/attachment
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\fe7d99ff-3df0-46a3-b463-b0627ff186cb\Partial-Satisfaction-of-Judgment-letter-size-1.doc
+Content Type: application/msword
+
+Uri: https://newyorkncs.ctic.com/getattachment/People/Employee-Bio/Joanne-Seorti/JoanneSeorti.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\People\Employee-Bio\Joanne-Seorti\JoanneSeorti-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/People/Employee-Bio/Mark-Krivelevich/MarkKrivelevich.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\People\Employee-Bio\Mark-Krivelevich\MarkKrivelevich-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/People/Employee-Bio/Siu-Cheung/CTNoBio.png?lang=en-US&width=300&height=340&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\People\Employee-Bio\Siu-Cheung\CTNoBio-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/Resources/Company-Fact-Sheet/CompanyFactSheet_bg.jpg?lang=en-US&width=800&height=353&ext=.jpg
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Resources\Company-Fact-Sheet\CompanyFactSheet_bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://newyorkncs.ctic.com/getattachment/Resources/CRE-Laws-Customs/CTIC_NCS_Laws_Customs_2022_web.pdf?lang=en-US
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Resources\CRE-Laws-Customs\CTIC_NCS_Laws_Customs_2022_web-1.pdf
+Content Type: application/pdf
+
+Uri: https://newyorkncs.ctic.com/getattachment/Resources/New-York-Forms-Library/FormsAndDocs.png?lang=en-US&width=1140&height=224&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Resources\New-York-Forms-Library\FormsAndDocs-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/Resources/NTI-WEB/OtherAreasBG_large.jpg?lang=en-US&width=1140&height=224&ext=.jpg
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Resources\NTI-WEB\OtherAreasBG_large-1.jpg
+Content Type: image/jpeg
+
+Uri: https://newyorkncs.ctic.com/getattachment/Resources/State-Laws,-Customs,-Links/ResourcesMountainLeftBG.jpg?lang=en-US&width=800&height=353&ext=.jpg
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Resources\State-Laws,-Customs,-Links\ResourcesMountainLeftBG-1.jpg
+Content Type: image/jpeg
+
+Uri: https://newyorkncs.ctic.com/getattachment/Resources/State-Laws,-Customs,-Links/ResourcesMountainRightBG.jpg?lang=en-US&width=400&height=353&ext=.jpg
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Resources\State-Laws,-Customs,-Links\ResourcesMountainRightBG-1.jpg
+Content Type: image/jpeg
+
+Uri: https://newyorkncs.ctic.com/getattachment/Services/1031-Exchange/1031Exchange_BG.png?lang=en-US&width=1200&height=292&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Services\1031-Exchange\1031Exchange_BG-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/Services/1031-Exchange/1031Exchange_BGFade.png?lang=en-US&width=1200&height=292&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Services\1031-Exchange\1031Exchange_BGFade-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/Services/Closing-Escrow/ClosingAndEscrow_BG.png?lang=en-US&width=1200&height=292&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Services\Closing-Escrow\ClosingAndEscrow_BG-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/Services/Construction-Disbursing/ConstructionDisbursingfullpagebg.png?lang=en-US&width=579&height=400&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Services\Construction-Disbursing\ConstructionDisbursingfullpagebg-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/Services/Construction-Disbursing/ConstructionEscrow.png?lang=en-US&width=1200&height=292&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Services\Construction-Disbursing\ConstructionEscrow-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/Services/Recordings-Special-Projects/RecordingAndSpecialProjects.png?lang=en-US&width=1200&height=292&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Services\Recordings-Special-Projects\RecordingAndSpecialProjects-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/Services/Recordings-Special-Projects/RecordingAndSpecialProjectsFade.png?lang=en-US&width=1200&height=292&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Services\Recordings-Special-Projects\RecordingAndSpecialProjectsFade-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/Services/Title-Insurance/TitleInsurance_BG.jpg?lang=en-US&width=800&height=200&ext=.jpg
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Services\Title-Insurance\TitleInsurance_BG-1.jpg
+Content Type: image/jpeg
+
+Uri: https://newyorkncs.ctic.com/getattachment/Services/UCCPlus-Insurance/uccplus_logo_regular.png?lang=en-US
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Services\UCCPlus-Insurance\uccplus_logo_regular-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/Web-Site-Configurations/CTICLogoLarge.png?lang=en-US&width=312&height=61&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Web-Site-Configurations\CTICLogoLarge-1.png
+Content Type: image/png
+
+Uri: https://newyorkncs.ctic.com/getattachment/Web-Site-Configurations/CTICLogoSmall.png?lang=en-US&width=155&height=60&ext=.png
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Web-Site-Configurations\CTICLogoSmall-1.jpg
+Content Type: image/jpeg
+
+Uri: https://newyorkncs.ctic.com/getattachment/Web-Site-Configurations/interior_banner.jpg?lang=en-US&width=1500&height=280&ext=.jpg
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\getattachment\Web-Site-Configurations\interior_banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://newyorkncs.ctic.com/Jack-A-Marino
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Jack-A-Marino-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Jennifer-Beltrami
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Jennifer-Beltrami-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Joanne-Seorti
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Joanne-Seorti-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/John-Caruso
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\John-Caruso-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Kristen-M-Simat
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Kristen-M-Simat-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Lisa-Zicchinella
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Lisa-Zicchinella-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Mario-F-Varano
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Mario-F-Varano-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Mark-Krivelevich
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Mark-Krivelevich-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Mark-Marmer
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Mark-Marmer-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Matthew-S-Bliwise
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Matthew-S-Bliwise-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Michelle-Cruz-Bingham
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Michelle-Cruz-Bingham-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Neal-Miranda
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Neal-Miranda-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Neil-A-Falcone
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Neil-A-Falcone-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/News-Events
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\News-Events-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Nigel-Drepaul
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Nigel-Drepaul-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Patricia-Lopinski
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Patricia-Lopinski-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/People
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\People-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/FAQs
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\FAQs-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/Forms-Library
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\Forms-Library-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/Glossary
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\Glossary-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/Industry-Links
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\Industry-Links-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-52.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=10
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-62.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=11
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-63.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=12
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-64.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=13
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-65.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=14
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-66.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=15
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-67.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=16
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-68.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=17
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-69.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=18
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-70.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=19
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-71.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=1;
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-53.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=2
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-54.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=20
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-72.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=21
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-73.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=22
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-74.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=23
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-75.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=24
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-76.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=25
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-77.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=26
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-78.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=27
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-79.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=28
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-80.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=29
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-81.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=3
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-55.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=30
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-82.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=31
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-83.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=32
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-84.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=33
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-85.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=34
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-86.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=35
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-87.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=36
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-88.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=37
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-89.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=38
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-90.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=39
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-91.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=4
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-56.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=40
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-92.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=41
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-93.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=42
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-94.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=43
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-95.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=44
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-96.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=45
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-97.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=46
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-98.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=47
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-99.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=48
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-100.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=49
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-101.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=5
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-57.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=50
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-102.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=51
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-103.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=6
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-58.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=7
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-59.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=8
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-60.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Resources/State-Links?&smartsearchfilter=9
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Resources\State-Links-61.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Robert-A-Simins
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Robert-A-Simins-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvmicQ4iZeijVdQy6btIynz_DQGj9BjQI2noXHJZzC_E8tkKkijnKkNHmN5awreyHUH2yalFWI9hjfAkpQkkEiouW6NMWevX_d9WLGI2VLYVASjwYRX1HWcTh4ruJfMXweLIbnEq4LZmGWE9QxL7p0Ys1&t=49337fe8
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\ScriptResource-1.axd
+Content Type: application/x-javascript
+
+Uri: https://newyorkncs.ctic.com/Services
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Services-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Services/1031-Exchange
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Services\1031-Exchange-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Services/Closing-Escrow
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Services\Closing-Escrow-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Services/Construction-Disbursing
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Services\Construction-Disbursing-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Services/Recording-Special-Projects
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Services\Recording-Special-Projects-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Services/Title-Insurance
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Services\Title-Insurance-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Services/UCCPlus-Insurance
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Services\UCCPlus-Insurance-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Site-Map
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Site-Map-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Siu-Cheung
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Siu-Cheung-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Timothy-P-Ring
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Timothy-P-Ring-1.html
+Content Type: text/html
+
+Uri: https://newyorkncs.ctic.com/Yosi-Benlevi
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\Yosi-Benlevi-1.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-24PVW7V1PH
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\gtag\js-1
+Content Type: application/javascript
+
+Uri: https://www.justice.gov/enrd/page/file/922431/download
+File Name: C:\Downloaded Web Sites\newyorkncs.ctic.com\enrd\page\file\922431\doj-title-regulations-1.pdf
+Content Type: application/pdf
+
